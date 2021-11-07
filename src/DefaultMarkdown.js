@@ -40,7 +40,7 @@ Create lists:
     
 And if you want to include embedded images:
 
-![React Logo w/ Text](/logo192.png)
+![React Logo w/ Text](./logo192.png)
 `;
 
 export default defaultMarkdown;
