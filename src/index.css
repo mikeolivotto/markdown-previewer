@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(222, 222, 222);
+}
+
+
+blockquote {
+    /* color: red; */
+    /* background-color: #ededed; */
+    border-left: 5px solid #ededed;
+    padding-left: 5px;
+    font-style: italic;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-bottom: 20px;
+  }
+
+code {
+    color: black;
+    font-family: monospace;
+    background-color: #ededed;
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
