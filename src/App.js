@@ -55,7 +55,6 @@ class MarkdownEditor extends React.Component {
     }
 
     const editorStyle = {
-      "overflow": "scroll",
       "maxHeight": "90vh"
     }
 
