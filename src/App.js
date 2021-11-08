@@ -69,7 +69,7 @@ class MarkdownEditor extends React.Component {
       <Container style={containerStyle}>
         <Row>
           <Col xs={12} lg={6} className="" style={editorStyle}>
-            <h2>Markup editor</h2>
+            <h2>Markdown editor</h2>
             <textarea
               id="editor"
               placeholder="Enter your markup here"
